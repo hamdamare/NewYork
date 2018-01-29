@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">New York New York</string>
+
+    //creating a string array for famous top 5 landmarks
+    <string-array name="Places">
+        <item>Top 3 Famous Landmarks</item>
+        <item>Top 3 Shows to See</item>
+        <item>Top 3 Cheap Eats</item>
+        <item>//Top 3 Best Cafes</item>
+        <item>Top 3 CoOlEsT Things to do</item>
+        <item>Top 3 Best Live Music Venues</item>
+    </string-array>
+
+   <string-array name="Prices">
+       <item>$0-$30</item>
+       <item>$0-$200</item>
+       <item>Under $10</item>
+       <item>$2-$10</item>
+       <item>$0-$25</item>
+       <item>$27 - $100</item>
+   </string-array>
+
+
+    <string-array name="Description">
+        <item>
+            Empire State Building, Times Square, Metropolitan Museum of Art
+        </item>
+
+
+        <item>
+            Wendy Williams Show, Metropolitan Opera,Les Miserables
+        </item>
+
+
+
+        <item>
+            Pisillo,Los Tacos,Halal Guys
+        </item>
+
+        <item>
+            Abraço,Little Collins,Culture Espresso
+        </item>
+
+        <item>
+            The Met Cloisters, The Museum of Modern Art (MoMA), W A N D E R I N G   A R O U N D
+        </item>
+
+        <item>
+            Music Hall of Williamsburg, Radio City Music Hall, Baby's All Right
+        </item>
+
+    </string-array>
+
+</resources>
